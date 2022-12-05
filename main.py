@@ -12,7 +12,7 @@ import re
 import os
 from keep import keep
 
-token = 'MTA0ODM4NzEwMjE5NjM3OTY3OA.GxxK1b.NSfoV9nRzPX-yQ8LuJhSSwh6tpDZGqDRAuzHX0'
+token = 'TOKEN HERE'
 prefix = '.'
 
 intents = discord.Intents().all()
